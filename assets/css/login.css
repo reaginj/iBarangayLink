@@ -1,0 +1,30 @@
+body {
+    background: #f3f3f3;
+    font-family: Arial, sans-serif;
+}
+
+.login-box {
+    width: 320px;
+    padding: 30px;
+    background: white;
+    margin: 8% auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    width: 95%;
+    padding: 10px;
+    background: #4A67FF;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
